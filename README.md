@@ -1,15 +1,15 @@
 # Movie-Recommendation-System
-# 🎯Objective: 
+## 🎯Objective: 
 " 🎬Movie Recommendation System! 🎥"
 In this implementation, when the user searches for a movie it will recommend the top similar movies using the movie recommendation system. I have used  a content based filtering algorithm for this purpose. 
 
-# 🔍 Data Cleaning:
+## 🔍 Data Cleaning:
 (TMDB Movie dataset Source: Kaggle) the first task was to browse all the data and replace the json character in string format using the json.loads() method.
 Dealt with the null values, duplicates, zero values, data type of columns. 
 
- # 📊 Exploratory Data Analysis (EDA) :
+ ## 📊 Exploratory Data Analysis (EDA) :
 
-# 💡 Insights:
+## 💡 Insights:
 
 -Profit and Popularity shows a positive but low correlation.
 -Wednesday emerges as the day with the highest average profit and popularity, while Friday lags behind.
