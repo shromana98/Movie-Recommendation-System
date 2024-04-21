@@ -28,7 +28,7 @@ Dealt with the null values, duplicates, zero values, data type of columns.
 - Warner Bros emerges as the top production company, leading the pack in the number of movies released.
 - Despite the dominance of male-centric narratives, there's potential for diversification and inclusivity in the industry.
 
-
+![Movie](https://github.com/shromana98/Movie-Recommendation-System/assets/115609505/0b23223c-8c26-423f-bc5e-e3fd81fa72f5)
  # Recommendation system:
 1. Data Preprocessing: Selected relevant columns and applied stemming to standardize text data for analysis.
 2. CountVectorizer: Utilized CountVectorizer to convert textual data into numerical vectors, facilitating analysis and recommendation.
