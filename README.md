@@ -14,7 +14,7 @@ The first task was to browse all the data and replace the json character in stri
 Dealt with the null values, duplicates, zero values, data type of columns. 
 
  ## 📊 Exploratory Data Analysis:
-
+---
 ## 💡 Insights:
 
 - Profit and Popularity shows a positive but low correlation.
