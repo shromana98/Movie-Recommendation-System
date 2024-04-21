@@ -1,4 +1,8 @@
 # Movie-Recommendation-System
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Recommendation system](#recommendation-system)
 ## Project Overview: 
 " 🎬Movie Recommendation System! 🎥"
 In this implementation, when the user searches for a movie it will recommend the top similar movies using the movie recommendation system. I have used  a content based filtering algorithm for this purpose. 
@@ -9,7 +13,7 @@ TMDB Movie dataset Source: Kaggle
 The first task was to browse all the data and replace the json character in string format using the json.loads() method.
 Dealt with the null values, duplicates, zero values, data type of columns. 
 
- ## 📊 Exploratory Data Analysis (EDA) :
+ ## 📊 Exploratory Data Analysis:
 
 ## 💡 Insights:
 
@@ -25,7 +29,7 @@ Dealt with the null values, duplicates, zero values, data type of columns.
 - Despite the dominance of male-centric narratives, there's potential for diversification and inclusivity in the industry.
 
 
- # To build the recommendation system:
+ # Recommendation system:
 1. Data Preprocessing: Selected relevant columns and applied stemming to standardize text data for analysis.
 2. CountVectorizer: Utilized CountVectorizer to convert textual data into numerical vectors, facilitating analysis and recommendation.
 3. Algorithm: Employed content based filtering techniques to generate personalized recommendations based on user preferences.
